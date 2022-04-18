@@ -7,7 +7,7 @@ http://200.24.132.99:8000/play/a02p
 http://200.24.132.99:8000/play/a01y
 #EXTINF:-1,CNN Espanol
 http://200.24.132.99:8000/play/a01q
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="MX| CANAL LAS ESTRELLAS HD" tvg-logo="https://lo1.in/LOGO/MEXICO/CANALLASESTRELLAS.png" group-title="AM | MEXICO",MX| CANAL LAS ESTRELLAS H
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="MX| CANAL LAS ESTRELLAS HD" tvg-logo="https://lo1.in/LOGO/MEXICO/CANALLASESTRELLAS.png" group-title="AM | MEXICO",MX| CANAL LAS ESTRELLAS HD
 http://200.24.132.99:8000/play/a027
 #EXTINF:-1,Cartoon Network
 http://200.24.132.99:8000/play/a01m

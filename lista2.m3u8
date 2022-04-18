@@ -7,7 +7,7 @@ http://200.24.132.99:8000/play/a02p
 http://200.24.132.99:8000/play/a01y
 #EXTINF:-1,CNN Espanol
 http://200.24.132.99:8000/play/a01q
-#EXTINF:-1,Canal Estrellas
+#EXTINF:-1,Canal Estrellas tvg-logo="https://lo1.in/LOGO/MEXICO/CANALLASESTRELLAS.png"
 http://200.24.132.99:8000/play/a027
 #EXTINF:-1,Cartoon Network
 http://200.24.132.99:8000/play/a01m
